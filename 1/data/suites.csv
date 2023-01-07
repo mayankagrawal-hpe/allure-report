@@ -1,0 +1,45 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_fixture_test","","","","test_allure_fixture_with_finalizer",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_parametrized_test","","","","test_allure_parametrized_fixture[first]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","1","tests","allure_parametrized_test","","","","test_allure_parametrized_test [Second name]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_custom_labels",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_simple_test","","","","test_allure_simple_test displayName",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","1","tests","allure_labels_test","","","","test_allure_bdd_labels",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_severity[blocker]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_description_test","","","","test_dynamic_description[First param]","
+    Initial test description
+    
+ This is dynamic description part based on First param"
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_severity[minor]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_fixture_test","","","","test_allure_yield_fixture",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","1","tests","allure_parametrized_test","","","","test_allure_parametrized_fixture[second]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_tags",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_description_test","","","","test_decorated_description","
+This is test description from decorator
+
+Scenario:
+  - pass
+  "
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_description_test","","","","test_docstring_description","
+    This is a test docstring
+    It's will be shown as an allure test description
+    Scenario:
+     - pass
+    "
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","1","tests","allure_step_statuses_test","","","","test_allure_steps",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_dynamic_labels[some-image:latest]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","Custom parent suite","Custom suite","Custom sub suite","","","test_allure_suites",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_severity[normal]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_description_test","","","","test_decorated_html_description",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_links_test","","","","test_allure_dynamic_links",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_links_test","","","","test_allure_links",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_parametrized_test","","","","test_allure_parametrized_test [First name]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_fixture_test","","","","test_with_fixture_title",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","1","tests","allure_attachments_test","","","","test_attach",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_dynamic_labels[some-image:release]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_severity[trivial]",""
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_description_test","","","","test_dynamic_description[Second param]","
+    Initial test description
+    
+ This is dynamic description part based on Second param"
+"passed","Sat Jan 07 00:43:58 GMT 2023","Sat Jan 07 00:43:58 GMT 2023","0","tests","allure_labels_test","","","","test_allure_severity[critical]",""
